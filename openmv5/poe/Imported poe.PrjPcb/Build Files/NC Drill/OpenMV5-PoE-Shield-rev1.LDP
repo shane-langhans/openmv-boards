@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\pure\openmv\github\openmv-boards\openmv5\poe\Imported poe.PrjPcb\poe.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=openmv5-poe-shield-rev1-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=openmv5-poe-shield-rev1-slotholes.txt|DrillLayers=gtl,gbl

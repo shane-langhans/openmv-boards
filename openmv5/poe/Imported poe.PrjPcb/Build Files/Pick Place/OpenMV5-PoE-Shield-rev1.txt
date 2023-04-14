@@ -1,0 +1,52 @@
+Altium Designer Pick and Place Locations
+C:\pure\openmv\github\openmv-boards\openmv5\poe\Imported poe.PrjPcb\Build Files\Pick Place\OpenMV5-PoE-Shield-rev1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       14/04/23
+Time:       09:16
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Layer       Center-X(mm) Center-Y(mm) Rotation Footprint           MPN                
+BR1        BottomLayer -24.2471     19.7135      180      SOP254P665X270-4N   MB6S-TP            
+BR2        BottomLayer -35.1723     19.3834      0        SOP254P665X270-4N   MB6S-TP            
+C1         TopLayer    -38.2473     4.1134       90       C1206               1206B102K252CT     
+C2         BottomLayer -21.6472     27.2133      90       C1812               202S43W472KV4E     
+C3         BottomLayer -37.8473     27.2133      90       C1812               202S43W472KV4E     
+C4         TopLayer    -22.1234     20.2184      0        C0402               GRM155R71H104KE14D 
+C5         TopLayer    -34.6710     20.2692      180      C0402               GRM155R71H104KE14D 
+C6         BottomLayer -21.5470     32.4135      0        C1206               CL31A107MQHNNWE    
+C7         BottomLayer -22.7472     30.8135      0        C0402               GRM155R60J106ME05D 
+C8         BottomLayer -16.9471     22.2134      90       C1206               1206B102K252CT     
+C9         BottomLayer -16.9471     17.2132      270      C1206               1206B102K252CT     
+C10        BottomLayer -42.3471     17.2132      270      C1206               1206B102K252CT     
+C11        BottomLayer -31.7500     33.0200      180      C0402               GRM155R60J106ME05D 
+C12        BottomLayer -42.3471     22.2134      90       C1206               1206B102K252CT     
+D1         BottomLayer -29.6471     23.7134      0        DIOM5226X230N       SMAJ58A/TR13       
+D2         BottomLayer -16.4473     7.1135       90       DIOM5025X231N       FM240A             
+IC1        TopLayer    -29.6722     28.9234      180      AG9905LP            Ag9905LP           
+J1         TopLayer    -28.4163     3.7634       0        GMJXHTMMS88         GMJXHT-MM-S-88     
+J2         TopLayer    -29.6473     14.4144      0        OPENMV5-BOTTOM      DNP                
+L1         BottomLayer -28.0133     27.5113      90       R0805               BBPY00100505102Y00 
+L2         BottomLayer -31.1912     27.5113      90       R0805               BBPY00100505102Y00 
+L3         BottomLayer -25.4974     27.5113      270      R0805               BBPY00100505102Y00 
+L4         BottomLayer -34.1932     27.4997      270      R0805               BBPY00100505102Y00 
+L5         BottomLayer -24.8920     24.2570      270      R0805               BBPY00100505102Y00 
+L6         BottomLayer -34.5694     24.1808      270      R0805               BBPY00100505102Y00 
+L7         BottomLayer -27.5473     33.0134      180      VLCF4020T-1R8N1R9   VLCF4020T-1R8N1R9  
+LED1       TopLayer    -17.3473     -5.4867      180      LTSTS270K           LTST-S270KSKT      
+LED2       TopLayer    -39.4471     -5.4866      0        LTSTS270K           LTST-S270KGKT      
+R1         TopLayer    -18.6472     4.1133       270      R1206               RMCF1206FT1M00     
+R2         BottomLayer -19.0472     21.0134      180      R0402               0402WGF750JTCE     
+R3         BottomLayer -19.0472     18.4135      180      R0402               0402WGF750JTCE     
+R4         BottomLayer -40.2473     18.4135      0        R0402               0402WGF750JTCE     
+R5         BottomLayer -40.2473     21.0134      0        R0402               0402WGF750JTCE     
+R6         TopLayer    -44.4472     27.5133      270      R2512               RC2512JK-07100RL   
+R7         TopLayer    -44.4472     18.7135      90       R2512               RC2512JK-07100RL   
+R8         TopLayer    -14.8473     27.5133      270      R2512               RC2512JK-07100RL   
+R9         TopLayer    -14.8473     18.7135      90       R2512               RC2512JK-07100RL   
+R10        TopLayer    -16.4473     9.8884       90       R0603               CR0603-FX-4700ELF  
+T1         TopLayer    -28.4472     15.5133      90       SOIC127P930X565-16N PT61018PEL         

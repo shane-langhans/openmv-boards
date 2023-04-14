@@ -4,9 +4,9 @@ C:\pure\openmv\github\openmv-boards\openmv5\rt10\altium\Build Files\Pick Place\O
 ========================================================================================================================
 File Design Information:
 
-Date:       03/04/23
-Time:       17:53
-Revision:   df3217e6a0744ba0ca089e0397d35de326459d2b
+Date:       10/04/23
+Time:       08:29
+Revision:   703302f7caef700b49be49ffb6364bfdfff4a158
 Variant:    No variations
 Units used: mm
 
@@ -121,7 +121,7 @@ C106       TopLayer    24.3000      31.1000      90       GRM0335C1E4R7CA01D    
 C107       BottomLayer 21.6500      29.6000      0        GRM033R60J224ME15D            C0201                             
 C108       BottomLayer 22.5250      34.1250      90       JMK105BBJ475MV-F              0402-CAP                          
 C109       BottomLayer 20.0750      23.2750      270      GRM033R60J224ME15D            C0201                             
-C110       BottomLayer 30.1291      8.6172       0        C0402C102K5RAC                0402-CAP                          
+C110       BottomLayer 30.1291      8.6172       0        VJ0402Y102JXACW1BC            0402-CAP                          
 CN1        TopLayer    10.0000      6.4000       180      S2B-PH-K-S(LF)(SN)            JST-PH-2-THM-RA                   
 D1         TopLayer    32.9999      30.8000      180      UHD1110-FKA-CL1A13r3q1BBQFMF3 LED_UHD1110-FKA-CL1A13R3Q1BBQFMF3 
 D2         BottomLayer 9.9751       7.5499       0        CPDQT5V0HE-HF                 CPDQT5V0HEHF                      
@@ -165,11 +165,11 @@ J7         TopLayer    7.0625       23.8001      90       2337019-1             
 J8         TopLayer    27.9999      17.8001      270      3221-10-0300-00               CNC_3221-10-0300-00               
 L1         BottomLayer 22.4250      9.0000       180      MFBM1V1608-101-R              0603-RES                          
 L2         TopLayer    20.2750      4.9500       90       MAKK2016T1R0M                 INDC2016X100N                     
-L4         BottomLayer 22.9000      42.5250      90       MFBM1V1608-101-R              C0402                             
+L4         BottomLayer 22.9000      42.5250      90       MFBM1V1005-101-R              C0402                             
 L5         TopLayer    19.7000      20.9250      90       MAKK2016T4R7M                 INDC2016X100N                     
-L6         BottomLayer 21.7000      34.1250      90       MFBM1V1608-101-R              C0402                             
+L6         BottomLayer 21.7000      34.1250      90       MFBM1V1005-101-R              C0402                             
 L7         TopLayer    6.1001       23.8001      0        L-07C3N9SV6T                  0402                              
-L8         BottomLayer 7.0758       11.5508      0        MFBM1V1608-101-R              C0402                             
+L8         BottomLayer 7.0758       11.5508      0        MFBM1V1005-101-R              C0402                             
 L9         BottomLayer 2.8250       27.5000      90       MAKK2016T2R2M                 INDC2016X100N                     
 M1         TopLayer    33.0200      36.1950      0        9774030243R                   9774030243R                       
 M2         TopLayer    2.5400       36.1950      0        9774030243R                   9774030243R                       
@@ -178,17 +178,17 @@ Q2         BottomLayer 30.0250      15.7500      180      2N7002KW_R1_00001     
 Q3         BottomLayer 22.4250      14.9000      180      2N7002KW_R1_00001             SOT65P210X110-3N                  
 Q4         BottomLayer 21.2000      39.2500      90       2N7002KW_R1_00001             SOT65P210X110-3N                  
 Q5         BottomLayer 21.5000      36.3250      180      2N7002KW_R1_00001             SOT65P210X110-3N                  
-Q6         BottomLayer 14.2658      5.8622       90       ""                            PMXB120EPEZ                       
-R1         TopLayer    33.1750      32.2250      0        0402WGF1001TCE                0402-RES                          
+Q6         BottomLayer 14.2658      5.8622       90       PMXB120EPEZ                   PMXB120EPEZ                       
+R1         TopLayer    33.1750      32.2250      0        CRCW04021K00FKEDC             0402-RES                          
 R2         TopLayer    18.0750      7.6000       0        CRCW0402200KFKEDC             0402-RES                          
 R3         BottomLayer 22.8000      13.2750      180      AC0402FR-07100KL              0402-RES                          
-R4         TopLayer    33.1750      32.9750      0        0402WGF1001TCE                0402-RES                          
-R5         TopLayer    34.2250      30.6000      270      0402WGF1001TCE                0402-RES                          
-R6         TopLayer    23.8001      10.1999      180      RMC1/20-512FPA                0402-RES                          
-R7         TopLayer    28.9999      10.1999      0        RMC1/20-512FPA                0402-RES                          
+R4         TopLayer    33.1750      32.9750      0        CRCW04021K00FKEDC             0402-RES                          
+R5         TopLayer    34.2250      30.6000      270      CRCW04021K00FKEDC             0402-RES                          
+R6         TopLayer    23.8001      10.1999      180      RC0402JR-075K1L               0402-RES                          
+R7         TopLayer    28.9999      10.1999      0        RC0402JR-075K1L               0402-RES                          
 R8         TopLayer    16.4000      7.6000       0        AC0402FR-0744K2L              0402-RES                          
 R9         BottomLayer 7.5999       4.6751       180      AC0402FR-1310KL               0402-RES                          
-R10        BottomLayer 7.6500       0.6000       180      0402WGJ0332TCE                0402-RES                          
+R10        BottomLayer 7.6500       0.6000       180      CRCW04023K30FKEDC             0402-RES                          
 R11        BottomLayer 7.6000       2.4750       180      WR04X4642FTL                  0402-RES                          
 R12        BottomLayer 7.5999       3.4749       180      RC0402JR-078K2L               0402-RES                          
 R13        TopLayer    29.4000      38.2000      180      AC0402FR-07100KL              0402-RES                          
@@ -204,7 +204,7 @@ R22        BottomLayer 28.3500      16.5750      0        AC0402FR-07100KL      
 R23        BottomLayer 23.4750      16.9000      180      AC0402FR-07100KL              0402-RES                          
 R24        BottomLayer 19.4250      38.8250      90       AC0402FR-07100KL              0402-RES                          
 R25        BottomLayer 23.6000      36.3250      90       AC0402FR-07100KL              0402-RES                          
-R26        BottomLayer 24.1500      38.6250      270      0402WGF1001TCE                0402-RES                          
+R26        BottomLayer 24.1500      38.6250      270      CRCW04021K00FKEDC             0402-RES                          
 R27        BottomLayer 17.1250      38.7500      90       AC0402FR-07100KL              0402-RES                          
 R28        BottomLayer 16.6250      36.4750      270      AC0402FR-07100KL              0402-RES                          
 R29        BottomLayer 15.8500      36.4750      270      AC0402FR-07100KL              0402-RES                          
@@ -214,12 +214,12 @@ R32        BottomLayer 19.5250      24.3500      270      RC0201FR-0730KL       
 R33        TopLayer    22.9999      24.9999      180      AC0402FR-1310KL               0402-RES                          
 R34        BottomLayer 7.3000       16.1750      180      AC0402FR-07100KL              0402-RES                          
 R35        TopLayer    8.1250       17.1750      180      CRGCQ0402F220R                0402-RES                          
-R36        BottomLayer 11.2500      16.1500      270      0402WGF1001TCE                0402-RES                          
+R36        BottomLayer 11.2500      16.1500      270      CRCW04021K00FKEDC             0402-RES                          
 R37        BottomLayer 8.3250       33.1500      0        AC0402FR-1310KL               0402-RES                          
 R38        BottomLayer 9.4123       11.8885      90       CR0402-FX-6491GLF             0402-RES                          
-R39        BottomLayer 10.9750      11.6750      0        0402WGF1001TCE                0402-RES                          
+R39        BottomLayer 10.9750      11.6750      0        CRCW04021K00FKEDC             0402-RES                          
 R40        TopLayer    24.3250      29.7500      270      RC0402FR-072M2L               0402-RES                          
-R41        BottomLayer 30.0920      9.4335       0        0402WGF1004TCE                0402-RES                          
+R41        BottomLayer 30.0920      9.4335       0        CRCW04021M00FKEDC             0402-RES                          
 RN1        BottomLayer 26.2999      18.5001      180      EXB-2HV104JV                  EXB2HV104JV                       
 RN2        BottomLayer 6.2750       30.9001      270      EXB-2HV104JV                  EXB2HV104JV                       
 U1         BottomLayer 18.8000      2.1250       180      MIC5365-3.3YMT-TZ             VREG_MIC5365-3.3YMT-TZ            
