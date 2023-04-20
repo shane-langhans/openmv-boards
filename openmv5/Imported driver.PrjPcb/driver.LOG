@@ -1,0 +1,511 @@
+Importer Log Report
+Project : driver.PrjPcb
+
+Section : Analyze Document - C:\pure\openmv\github\upstream\openmv-boards\openmv5\driver\driver.brd
+    Analyzing data of C:\pure\openmv\github\upstream\openmv-boards\openmv5\driver\driver.brd
+    Load settings
+    Load layers 180
+    Load board
+    Load Library "openmv"
+    Load Packages 4
+    Load Library "openmv5"
+    Load Packages 1
+    Load Library "SparkFun-Aesthetics"
+    Load Packages 1
+    ERROR: Unhandled typepackages3d
+    Load Library "sfe"
+    Load Packages 2
+    Load Library "CPDQT5V0HE-HF"
+    Load Packages 1
+    Load Library "SparkFun-Capacitors"
+    Load Packages 1
+    ERROR: Unhandled typepackages3d
+    Load Library "rcl"
+    Load Packages 2
+    ERROR: Unhandled typepackages3d
+    Load Library "TPS613222ADBVR"
+    Load Packages 1
+    Load Library "MAKK2016T2R2M"
+    Load Packages 1
+    Load Library "1771088"
+    Load Packages 1
+    Load Library "FM240A"
+    Load Packages 1
+    Load Library "74LVC1G17SE-7"
+    Load Packages 1
+    Load Library "AP64060WU-7"
+    Load Packages 1
+    Load Library "NRS4018T100MDGJ"
+    Load Packages 1
+    Load Library "SMAJ40CAe3_TR13"
+    Load Packages 1
+    Load Library "MMSZ5231B-7-F"
+    Load Packages 1
+    Load Library "SparkFun-Jumpers"
+    Load Packages 3
+    ERROR: Unhandled typepackages3d
+    Load Library "74LVC1G07GW_125"
+    Load Packages 1
+    Load Library "LM321LVIDCKR"
+    Load Packages 1
+    Load Library "MM3Z3V6T1G"
+    Load Packages 1
+    Load Library "DRV8876RGTR"
+    Load Packages 1
+    Load Library "BUK6D120-60PX"
+    Load Packages 1
+    Load Library "EMZR500ARA101MF80G"
+    Load Packages 1
+    ERROR: Unhandled typemfgpreviewcolors
+    ERROR: Unhandled typeerrors
+EndSection
+
+Section : Analyze Document - C:\pure\openmv\github\upstream\openmv-boards\openmv5\driver\driver.sch
+    Analyzing data of C:\pure\openmv\github\upstream\openmv-boards\openmv5\driver\driver.sch
+    Load settings
+    Load layers 180
+    Load schematic
+    Load Libraries 26
+    Load Library "supply"
+    Load Packages 0
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "openmv5"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "frames"
+    Load Packages 0
+    Load Symbols 2
+    Load DeviceSets 1
+    Load Library "SparkFun-Aesthetics"
+    Load Packages 2
+    ERROR: Unhandled typepackages3d
+    Load Symbols 1
+    Load DeviceSets 1
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    Load Library "sfe"
+    Load Packages 23
+    Load Symbols 3
+    Load DeviceSets 3
+    Load Library "CPDQT5V0HE-HF"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "SparkFun-Capacitors"
+    Load Packages 2
+    ERROR: Unhandled typepackages3d
+    Load Symbols 1
+    Load DeviceSets 1
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    Load Library "rcl"
+    Load Packages 164
+    ERROR: Unhandled typepackages3d
+    Load Symbols 2
+    Load DeviceSets 2
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typespice
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typespice
+    Load Library "mux"
+    Load Packages 0
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "TPS613222ADBVR"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "MAKK2016T2R2M"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "SparkFun-PowerSymbols"
+    Load Packages 0
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "1771088"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "FM240A"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "74LVC1G17SE-7"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "AP64060WU-7"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "NRS4018T100MDGJ"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "SMAJ40CAe3_TR13"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "MMSZ5231B-7-F"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "SparkFun-Jumpers"
+    Load Packages 8
+    ERROR: Unhandled typepackages3d
+    Load Symbols 3
+    Load DeviceSets 3
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    Load Library "74LVC1G07GW_125"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "LM321LVIDCKR"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "MM3Z3V6T1G"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "DRV8876RGTR"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "BUK6D120-60PX"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "EMZR500ARA101MF80G"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Attributes 0
+    Load Classes 5
+    Load Parts 108
+    Load Sheets 1
+    ERROR: Unhandled type <errors>
+EndSection
+
+Section : Import Document - C:\pure\openmv\github\upstream\openmv-boards\openmv5\driver\driver.brd
+    ERROR: Component designator  D2 at invalid layer!
+    ERROR: Component comment  D2 at invalid layer!
+    ERROR: Component designator  IC1 at invalid layer!
+    ERROR: Component comment  IC1 at invalid layer!
+    ERROR: Component designator  C3 at invalid layer!
+    ERROR: Component comment  C3 at invalid layer!
+    ERROR: Component designator  C4 at invalid layer!
+    ERROR: Component comment  C4 at invalid layer!
+    ERROR: Component designator  L2 at invalid layer!
+    ERROR: Component comment  L2 at invalid layer!
+    ERROR: Component designator  J2 at invalid layer!
+    ERROR: Component comment  J2 at invalid layer!
+    ERROR: Component designator  R6 at invalid layer!
+    ERROR: Component comment  R6 at invalid layer!
+    ERROR: Component designator  R10 at invalid layer!
+    ERROR: Component comment  R10 at invalid layer!
+    ERROR: Component designator  U1 at invalid layer!
+    ERROR: Component comment  U1 at invalid layer!
+    ERROR: Component designator  C11 at invalid layer!
+    ERROR: Component comment  C11 at invalid layer!
+    ERROR: Component designator  D8 at invalid layer!
+    ERROR: Component comment  D8 at invalid layer!
+    ERROR: Component designator  D9 at invalid layer!
+    ERROR: Component comment  D9 at invalid layer!
+    ERROR: Component designator  R9 at invalid layer!
+    ERROR: Component comment  R9 at invalid layer!
+    ERROR: Component designator  IC2 at invalid layer!
+    ERROR: Component comment  IC2 at invalid layer!
+    ERROR: Component designator  R2 at invalid layer!
+    ERROR: Component comment  R2 at invalid layer!
+    ERROR: Component designator  R1 at invalid layer!
+    ERROR: Component comment  R1 at invalid layer!
+    ERROR: Component designator  L1 at invalid layer!
+    ERROR: Component comment  L1 at invalid layer!
+    ERROR: Component designator  C5 at invalid layer!
+    ERROR: Component comment  C5 at invalid layer!
+    ERROR: Component designator  C6 at invalid layer!
+    ERROR: Component comment  C6 at invalid layer!
+    ERROR: Component designator  C1 at invalid layer!
+    ERROR: Component comment  C1 at invalid layer!
+    ERROR: Component designator  C2 at invalid layer!
+    ERROR: Component comment  C2 at invalid layer!
+    ERROR: Component designator  D3 at invalid layer!
+    ERROR: Component comment  D3 at invalid layer!
+    ERROR: Component designator  D1 at invalid layer!
+    ERROR: Component comment  D1 at invalid layer!
+    ERROR: Component designator  D4 at invalid layer!
+    ERROR: Component comment  D4 at invalid layer!
+    ERROR: Component designator  Z1 at invalid layer!
+    ERROR: Component comment  Z1 at invalid layer!
+    ERROR: Component designator  C7 at invalid layer!
+    ERROR: Component comment  C7 at invalid layer!
+    ERROR: Component designator  C8 at invalid layer!
+    ERROR: Component comment  C8 at invalid layer!
+    ERROR: Component designator  R3 at invalid layer!
+    ERROR: Component comment  R3 at invalid layer!
+    ERROR: Component designator  R7 at invalid layer!
+    ERROR: Component comment  R7 at invalid layer!
+    ERROR: Component designator  D7 at invalid layer!
+    ERROR: Component comment  D7 at invalid layer!
+    ERROR: Component designator  C10 at invalid layer!
+    ERROR: Component comment  C10 at invalid layer!
+    ERROR: Component designator  Z3 at invalid layer!
+    ERROR: Component comment  Z3 at invalid layer!
+    ERROR: Component designator  JP7 at invalid layer!
+    ERROR: Component comment  JP7 at invalid layer!
+    ERROR: Component designator  IC4 at invalid layer!
+    ERROR: Component comment  IC4 at invalid layer!
+    ERROR: Component designator  JP9 at invalid layer!
+    ERROR: Component comment  JP9 at invalid layer!
+    ERROR: Component designator  JP4 at invalid layer!
+    ERROR: Component comment  JP4 at invalid layer!
+    ERROR: Component designator  R8 at invalid layer!
+    ERROR: Component comment  R8 at invalid layer!
+    ERROR: Component designator  R4 at invalid layer!
+    ERROR: Component comment  R4 at invalid layer!
+    ERROR: Component designator  D5 at invalid layer!
+    ERROR: Component comment  D5 at invalid layer!
+    ERROR: Component designator  IC3 at invalid layer!
+    ERROR: Component comment  IC3 at invalid layer!
+    ERROR: Component designator  JP8 at invalid layer!
+    ERROR: Component comment  JP8 at invalid layer!
+    ERROR: Component designator  C9 at invalid layer!
+    ERROR: Component comment  C9 at invalid layer!
+    ERROR: Component designator  D6 at invalid layer!
+    ERROR: Component comment  D6 at invalid layer!
+    ERROR: Component designator  R5 at invalid layer!
+    ERROR: Component comment  R5 at invalid layer!
+    ERROR: Component designator  Z2 at invalid layer!
+    ERROR: Component comment  Z2 at invalid layer!
+    ERROR: Component designator  R11 at invalid layer!
+    ERROR: Component comment  R11 at invalid layer!
+    ERROR: Component designator  JP1 at invalid layer!
+    ERROR: Component comment  JP1 at invalid layer!
+    ERROR: Component designator  JP3 at invalid layer!
+    ERROR: Component comment  JP3 at invalid layer!
+    ERROR: Component designator  JP2 at invalid layer!
+    ERROR: Component comment  JP2 at invalid layer!
+    ERROR: Component designator  JP5 at invalid layer!
+    ERROR: Component comment  JP5 at invalid layer!
+    ERROR: Component designator  JP6 at invalid layer!
+    ERROR: Component comment  JP6 at invalid layer!
+    ERROR: Component designator  C16 at invalid layer!
+    ERROR: Component comment  C16 at invalid layer!
+    ERROR: Component designator  IC5 at invalid layer!
+    ERROR: Component comment  IC5 at invalid layer!
+    ERROR: Component designator  C14 at invalid layer!
+    ERROR: Component comment  C14 at invalid layer!
+    ERROR: Component designator  D12 at invalid layer!
+    ERROR: Component comment  D12 at invalid layer!
+    ERROR: Component designator  D10 at invalid layer!
+    ERROR: Component comment  D10 at invalid layer!
+    ERROR: Component designator  C19 at invalid layer!
+    ERROR: Component comment  C19 at invalid layer!
+    ERROR: Component designator  C12 at invalid layer!
+    ERROR: Component comment  C12 at invalid layer!
+    ERROR: Component designator  C18 at invalid layer!
+    ERROR: Component comment  C18 at invalid layer!
+    ERROR: Component designator  JP10 at invalid layer!
+    ERROR: Component comment  JP10 at invalid layer!
+    ERROR: Component designator  R14 at invalid layer!
+    ERROR: Component comment  R14 at invalid layer!
+    ERROR: Component designator  C17 at invalid layer!
+    ERROR: Component comment  C17 at invalid layer!
+    ERROR: Component designator  IC6 at invalid layer!
+    ERROR: Component comment  IC6 at invalid layer!
+    ERROR: Component designator  C15 at invalid layer!
+    ERROR: Component comment  C15 at invalid layer!
+    ERROR: Component designator  D13 at invalid layer!
+    ERROR: Component comment  D13 at invalid layer!
+    ERROR: Component designator  D11 at invalid layer!
+    ERROR: Component comment  D11 at invalid layer!
+    ERROR: Component designator  C21 at invalid layer!
+    ERROR: Component comment  C21 at invalid layer!
+    ERROR: Component designator  C13 at invalid layer!
+    ERROR: Component comment  C13 at invalid layer!
+    ERROR: Component designator  C20 at invalid layer!
+    ERROR: Component comment  C20 at invalid layer!
+    ERROR: Component designator  JP11 at invalid layer!
+    ERROR: Component comment  JP11 at invalid layer!
+    ERROR: Component designator  R15 at invalid layer!
+    ERROR: Component comment  R15 at invalid layer!
+    ERROR: Component designator  Q1 at invalid layer!
+    ERROR: Component comment  Q1 at invalid layer!
+    ERROR: Component designator  R12 at invalid layer!
+    ERROR: Component comment  R12 at invalid layer!
+    ERROR: Component designator  R13 at invalid layer!
+    ERROR: Component comment  R13 at invalid layer!
+EndSection
