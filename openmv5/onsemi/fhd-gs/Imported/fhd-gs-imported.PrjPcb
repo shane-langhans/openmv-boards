@@ -58,23 +58,6 @@ GenerateClassCluster=0
 DocumentUniqueId=XXXSYRRM
 
 [Document2]
-DocumentPath=fhd-gs.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QEKKJITE
-
-[Document3]
 DocumentPath=..\..\lbr\altium\camera-modules.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -91,7 +74,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CXFGFWPS
 
-[Document4]
+[Document3]
 DocumentPath=..\..\lbr\altium\camera-modules.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -107,6 +90,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YEUPOKVT
+
+[Document4]
+DocumentPath=fhd-gs.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TKRNPLYK
 
 [GeneratedDocument1]
 DocumentPath=fhd-gs.LOG
