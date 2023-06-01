@@ -1,1 +1,14 @@
-Record=TopLevelDocument|FileName=rt10.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=battery-charging.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=battery-charging.SchDoc|FileName=ethernet.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=battery-charging.SchDoc|FileName=ideal-diode.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=battery-charging.SchDoc|FileName=io-headers.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=battery-charging.SchDoc|FileName=jtag.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=battery-charging.SchDoc|FileName=mimxrt10xx.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=battery-charging.SchDoc|FileName=qspi-flash.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=battery-charging.SchDoc|FileName=regulators.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=battery-charging.SchDoc|FileName=sd-card.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=battery-charging.SchDoc|FileName=sdram-16-bit.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=battery-charging.SchDoc|FileName=security-accelerometer.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=battery-charging.SchDoc|FileName=sensor-header.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=battery-charging.SchDoc|FileName=usb.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=battery-charging.SchDoc|FileName=wifi-bt.SchDoc|SheetNumber= 
