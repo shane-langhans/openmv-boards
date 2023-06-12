@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=
+OutputPath=Project Outputs for hd-gs-alt
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -41,6 +41,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=hd-gs-alt-ar0135.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document2]
 DocumentPath=hd-gs-alt.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -57,7 +74,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UFDKWGFU
 
-[Document2]
+[Document3]
 DocumentPath=hd-gs-alt.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -74,12 +91,282 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ITJSGBBY
 
+[Document4]
+DocumentPath=..\..\lbr\altium\camera-modules.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document5]
+DocumentPath=..\..\lbr\altium\camera-modules.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CXFGFWPS
+
 [GeneratedDocument1]
-DocumentPath=
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=hd-gs-alt.LOG
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Build Files\ODB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\2-gnd\features
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\3-sig\features
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\4-sig\features
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\5-gnd\features
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\btest\features
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\dielectric_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\dielectric_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\dielectric_4\features
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\dielectric_5\features
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\dimension\features
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\drill_drawing_top-bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\drill_guide_top-bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\top\features
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\ttest\features
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\unrouted\features
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Build Files\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Build Files\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Build Files\Pick Place\OpenMV-HD-GS-AR0144.csv
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Build Files\NC Drill\OpenMV-HD-GS-AR0144.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Build Files\Gerber\OpenMV-HD-GS-AR0144.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Build Files\Gerber\OpenMV-HD-GS-AR0144.G1
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Build Files\Gerber\OpenMV-HD-GS-AR0144.G2
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Build Files\Gerber\OpenMV-HD-GS-AR0144.G3
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Build Files\Gerber\OpenMV-HD-GS-AR0144.G4
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Build Files\Gerber\OpenMV-HD-GS-AR0144.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Build Files\Gerber\OpenMV-HD-GS-AR0144.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Build Files\Gerber\OpenMV-HD-GS-AR0144.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Build Files\Gerber\OpenMV-HD-GS-AR0144.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Build Files\Gerber\OpenMV-HD-GS-AR0144.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Build Files\Gerber\OpenMV-HD-GS-AR0144.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Build Files\Gerber\OpenMV-HD-GS-AR0144.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Build Files\Gerber\OpenMV-HD-GS-AR0144.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Build Files\Gerber\OpenMV-HD-GS-AR0144.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Build Files\Gerber\OpenMV-HD-GS-AR0144.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Build Files\NC Drill\OpenMV-HD-GS-AR0144.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Build Files\Gerber\OpenMV-HD-GS-AR0144.REP
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Build Files\ODB\OpenMV-HD-GS-AR0144.REP
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Build Files\Gerber\OpenMV-HD-GS-AR0144.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Build Files\NC Drill\OpenMV-HD-GS-AR0144.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Build Files\Pick Place\OpenMV-HD-GS-AR0144.txt
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Build Files\BOM\OpenMV-HD-GS-AR0144.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Build Files\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Build Files\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
 DItemRevisionGUID=
 
 [Configuration1]
@@ -91,6 +378,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for hd-gs-alt
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -237,7 +527,7 @@ OutputDefault3=0
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Composite
 OutputName1=Composite Drawing
@@ -661,6 +951,36 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1063,4 +1383,7 @@ ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=0|Use
 ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
 ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
 ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 

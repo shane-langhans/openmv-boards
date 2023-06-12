@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=
+OutputPath=Project Outputs for hd-gs
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -41,6 +41,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=hd-gs-ar0144.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document2]
 DocumentPath=hd-gs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -57,7 +74,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LLYAVSXI
 
-[Document2]
+[Document3]
 DocumentPath=hd-gs.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -74,7 +91,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HJBODYII
 
-[Document3]
+[Document4]
 DocumentPath=..\..\lbr\altium\camera-modules.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -91,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YEUPOKVT
 
-[Document4]
+[Document5]
 DocumentPath=..\..\lbr\altium\camera-modules.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -106,7 +123,31 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CXFGFWPS
+
+[GeneratedDocument1]
+DocumentPath=Build Files\Pick Place\OpenMV-HD-GS-AR0144.csv
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Build Files\NC Drill\OpenMV-HD-GS-AR0144.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Build Files\NC Drill\OpenMV-HD-GS-AR0144.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Build Files\NC Drill\OpenMV-HD-GS-AR0144.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Build Files\Pick Place\OpenMV-HD-GS-AR0144.txt
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Build Files\BOM\OpenMV-HD-GS-AR0144.xlsx
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -117,6 +158,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for hd-gs
 
 [OutputGroup1]
 Name=Netlist Outputs

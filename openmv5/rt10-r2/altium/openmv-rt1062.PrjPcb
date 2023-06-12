@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=
+OutputPath=Project Outputs for openmv-rt1062
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -346,6 +346,330 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JNWOSWGS
 
+[GeneratedDocument1]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Build Files\ODB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\bottom_mechanical_13_mechanical_14\features
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\dielectric2\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\dielectric3\features
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\dielectric_4\features
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\dielectric_5\features
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\dielectric_6\features
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\dielectric_7\features
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\dimension\features
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\drill_drawing_top-bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\drill_guide_top-bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\l2\features
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\l3\features
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\l4\features
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\l5\features
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\l6\features
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\l7\features
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\top\features
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\top_mechanical_13_mechanical_14\features
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\unrouted\features
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Build Files\ODB\odb\symbols\uds_rect21.653x39.37xr5.4132_offset0.0005x0\features
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Build Files\ODB\odb\symbols\uds_rect21.653x39.37xr5.4132_offset-0.0005x0\features
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Build Files\ODB\odb\symbols\uds_rect25.653x43.37xr7.4132_offset0.0005x0\features
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Build Files\ODB\odb\symbols\uds_rect25.653x43.37xr7.4132_offset-0.0005x0\features
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Build Files\ODB\odb\symbols\uds_rect27.5591x47.2441xr6.8898_90_offset0.0005x0\features
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Build Files\ODB\odb\symbols\uds_rect27.5591x47.2441xr6.8898_90_offset-0.0005x0\features
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Build Files\ODB\odb\symbols\uds_rect27.5591x47.2441xr6.8898_offset0.0005x0\features
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Build Files\ODB\odb\symbols\uds_rect27.5591x47.2441xr6.8898_offset-0.0005x0\features
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Build Files\ODB\odb\symbols\uds_rect31.5591x51.2441xr8.8898_90_offset0.0005x0\features
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Build Files\ODB\odb\symbols\uds_rect31.5591x51.2441xr8.8898_90_offset-0.0005x0\features
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Build Files\ODB\odb\symbols\uds_rect31.5591x51.2441xr8.8898_offset0.0005x0\features
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Build Files\ODB\odb\symbols\uds_rect31.5591x51.2441xr8.8898_offset-0.0005x0\features
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Build Files\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Build Files\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Build Files\NC Drill\OpenMV-RT10-r2-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Build Files\NC Drill\OpenMV-RT10-r2-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Build Files\Pick Place\OpenMV-RT10-r2.csv
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Build Files\NC Drill\OpenMV-RT10-r2.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Build Files\Gerber\OpenMV-RT10-r2.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Build Files\Gerber\OpenMV-RT10-r2.G1
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Build Files\Gerber\OpenMV-RT10-r2.G2
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Build Files\Gerber\OpenMV-RT10-r2.G3
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Build Files\Gerber\OpenMV-RT10-r2.G4
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Build Files\Gerber\OpenMV-RT10-r2.G5
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Build Files\Gerber\OpenMV-RT10-r2.G6
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Build Files\Gerber\OpenMV-RT10-r2.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Build Files\Gerber\OpenMV-RT10-r2.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Build Files\Gerber\OpenMV-RT10-r2.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Build Files\Gerber\OpenMV-RT10-r2.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Build Files\Gerber\OpenMV-RT10-r2.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Build Files\Gerber\OpenMV-RT10-r2.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Build Files\Gerber\OpenMV-RT10-r2.GM14
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Build Files\Gerber\OpenMV-RT10-r2.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Build Files\Gerber\OpenMV-RT10-r2.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Build Files\Gerber\OpenMV-RT10-r2.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Build Files\Gerber\OpenMV-RT10-r2.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Build Files\NC Drill\OpenMV-RT10-r2.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Build Files\Gerber\OpenMV-RT10-r2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Build Files\ODB\OpenMV-RT10-r2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Build Files\Gerber\OpenMV-RT10-r2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Build Files\Pick Place\OpenMV-RT10-r2.txt
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Build Files\BOM\OpenMV-RT10-r2.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Build Files\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Build Files\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Build Files\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -357,7 +681,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for openmv-rt1062
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -928,6 +1252,36 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
