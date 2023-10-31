@@ -1,0 +1,16 @@
+Record=TopLevelDocument|FileName=accelerometer.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=accelerometer.SchDoc|FileName=ae302f.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=accelerometer.SchDoc|FileName=battery-charging.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=accelerometer.SchDoc|FileName=display-header.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=accelerometer.SchDoc|FileName=ethernet.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=accelerometer.SchDoc|FileName=ideal-diode.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=accelerometer.SchDoc|FileName=io-headers.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=accelerometer.SchDoc|FileName=jtag.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=accelerometer.SchDoc|FileName=mic.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=accelerometer.SchDoc|FileName=prg-flash.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=accelerometer.SchDoc|FileName=psram.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=accelerometer.SchDoc|FileName=regulators.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=accelerometer.SchDoc|FileName=sd-card.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=accelerometer.SchDoc|FileName=sensor-header.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=accelerometer.SchDoc|FileName=usb.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=accelerometer.SchDoc|FileName=wifi-bt.SchDoc|SheetNumber= 
