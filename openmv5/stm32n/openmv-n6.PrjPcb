@@ -78,23 +78,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document3]
-DocumentPath=stm32n657.SCHLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IBDESWSS
-
-[Document4]
 DocumentPath=src\usb.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -111,7 +94,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JEUCKXVB
 
-[Document5]
+[Document4]
 DocumentPath=src\ideal-diode.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -128,7 +111,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UAVXNLIU
 
-[Document6]
+[Document5]
 DocumentPath=src\battery-charging.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -145,7 +128,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CZDAIWGB
 
-[Document7]
+[Document6]
 DocumentPath=src\regulators.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -162,14 +145,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LKWVETPT
 
-[Document8]
+[Document7]
 DocumentPath=prg-flash.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=14
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -179,14 +162,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KWHFGVHZ
 
-[Document9]
+[Document8]
 DocumentPath=psram.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=15
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -196,7 +179,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PULEFEBW
 
-[Document10]
+[Document9]
 DocumentPath=src\imu.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -213,7 +196,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BFCJZLFR
 
-[Document11]
+[Document10]
 DocumentPath=src\sd-card.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -230,7 +213,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HXJCGVGN
 
-[Document12]
+[Document11]
 DocumentPath=src\sensor-header.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -247,7 +230,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CXPBZVDG
 
-[Document13]
+[Document12]
 DocumentPath=src\io-headers.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -264,7 +247,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=THOUBKQA
 
-[Document14]
+[Document13]
 DocumentPath=src\jtag.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -281,7 +264,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HZPRRRVP
 
-[Document15]
+[Document14]
 DocumentPath=src\ethernet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -298,7 +281,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ANEKFMED
 
-[Document16]
+[Document15]
 DocumentPath=src\wifi-bt.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -315,7 +298,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LANJUGVV
 
-[Document17]
+[Document16]
 DocumentPath=src\stm32n657.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -332,143 +315,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JNWOSWGS
 
-[Document18]
-DocumentPath=APS256XXN-OBR-BG.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document19]
-DocumentPath=PUSB3TB6AZ.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document20]
-DocumentPath=SN74LVC1G3157DCKR.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document21]
-DocumentPath=TPS22919DCKR.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document22]
-DocumentPath=MMICT3902-00-012.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document23]
-DocumentPath=LM321LVIDBVR.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document24]
-DocumentPath=PUSB3BB4Z.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document25]
-DocumentPath=AP22800HB-7.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document26]
+[Document17]
 DocumentPath=openmv-stm32n.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -484,6 +331,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DEFQDDHJ
+
+[Document18]
+DocumentPath=openmv-n6.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VCQSQQFB
 
 [Configuration1]
 Name=Sources
@@ -648,7 +512,7 @@ OutputDefault23=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP11EDC7 (HP DeskJet 2700 series)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
