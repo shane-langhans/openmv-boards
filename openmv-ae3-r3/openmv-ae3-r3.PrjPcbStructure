@@ -1,0 +1,9 @@
+Record=TopLevelDocument|FileName=camera.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=camera.SchDoc|FileName=flash.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=camera.SchDoc|FileName=imu.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=camera.SchDoc|FileName=mic.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=camera.SchDoc|FileName=processor.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=camera.SchDoc|FileName=regulators.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=camera.SchDoc|FileName=tof.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=camera.SchDoc|FileName=usb.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=camera.SchDoc|FileName=wifi-bt.SchDoc|SheetNumber= 
